@@ -23,14 +23,13 @@ Danny has shared with you 3 key datasets for this case study:
 
 **Case Study Questions**
 1. What is the total amount each customer spent at the restaurant?
+
 Syntax:
 <img width="784" height="415" alt="Screenshot 2025-09-06 004240" src="https://github.com/user-attachments/assets/eb52411f-0cd5-4a72-865d-d451fab51f23" />
 Answer:
-<img width="265" height="127" alt="Screenshot 2025-09-06 004446" src="https://github.com/user-attachments/assets/4d060881-f8e3-4149-a1ba-c3581d089544" />
-
-
+A- 76, B- 74, C- 36
   
-3. How many days has each customer visited the restaurant?
+2. How many days has each customer visited the restaurant?
 4. What was the first item from the menu purchased by each customer?
 5. What is the most purchased item on the menu and how many times was it purchased by all customers?
 6. Which item was the most popular for each customer?
