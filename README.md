@@ -30,7 +30,13 @@ Answer:
 A- 76, B- 74, C- 36
   
 2. How many days has each customer visited the restaurant?
-4. What was the first item from the menu purchased by each customer?
+
+Syntax: 
+<img width="844" height="232" alt="Screenshot 2025-09-06 004904" src="https://github.com/user-attachments/assets/726372bc-4d0c-4ef4-9a24-ad55a770e29b" />
+Answer:
+A-4, B-6, C- 2
+
+3. What was the first item from the menu purchased by each customer?
 5. What is the most purchased item on the menu and how many times was it purchased by all customers?
 6. Which item was the most popular for each customer?
 7. Which item was purchased first by the customer after they became a member?
