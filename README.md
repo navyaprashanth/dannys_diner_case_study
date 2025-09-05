@@ -19,4 +19,4 @@ Danny has provided you with a sample of his overall customer data due to privacy
 Danny has shared with you 3 key datasets for this case study:
 1. [sales](https://github.com/user-attachments/files/22178895/dannys_diner_sales.csv)
 2. [menu](https://github.com/user-attachments/files/22178920/dannys_diner_menu.csv)
-3. 
+3. [members](https://github.com/user-attachments/files/22178940/dannys_diner_members.csv)
