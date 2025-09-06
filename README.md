@@ -1,6 +1,7 @@
 # dannys_diner_case_study
 This case study was taken from [8 weeks sql challenge](https://8weeksqlchallenge.com/case-study-1/)
-<img width="1080" height="1080" alt="dannys_diner" src="https://github.com/user-attachments/assets/d87b84ce-40ad-4fc5-bc03-0801c34170f6" />
+<img width="1024" height="1024" alt="Gemini_Generated_Image_pe4485pe4485pe44" src="https://github.com/user-attachments/assets/917d0cd2-e6ea-4544-82c1-de2ab6e22f39" />
+
 
 **Introduction**
 
