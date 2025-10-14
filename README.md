@@ -3,13 +3,13 @@ This case study was taken from [8 weeks sql challenge](https://8weeksqlchallenge
 <img width="1024" height="1024" alt="Gemini_Generated_Image_pe4485pe4485pe44" src="https://github.com/user-attachments/assets/917d0cd2-e6ea-4544-82c1-de2ab6e22f39" />
 
 
-**Introduction**
+## Introduction
 
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
 
 Danny’s Diner is in need of your assistance to help the restaurant stay afloat - the restaurant has captured some very basic data from their few months of operation but have no idea how to use their data to help them run the business.
 
-**Problem Statement**
+## Problem Statement
 
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with his customers will help him deliver a better and more personalised experience for his loyal customers.
 
@@ -22,8 +22,8 @@ Danny has shared with you 3 key datasets for this case study:
 2. [menu](https://github.com/user-attachments/files/22178920/dannys_diner_menu.csv)
 3. [members](https://github.com/user-attachments/files/22178940/dannys_diner_members.csv)
 
-**Case Study Questions**
-1. What is the total amount each customer spent at the restaurant?
+## Case Study Questions
+**1. What is the total amount each customer spent at the restaurant?**
 
 Syntax:
 
@@ -32,7 +32,7 @@ Syntax:
 Answer:
 A- 76, B- 74, C- 36
   
-2. How many days has each customer visited the restaurant?
+**2. How many days has each customer visited the restaurant?**
 
 Syntax: 
 
@@ -42,7 +42,7 @@ Answer: A-4,
         B-6, 
         C- 2
 
-3. What was the first item from the menu purchased by each customer?
+**3. What was the first item from the menu purchased by each customer?**
 
    Syntax:
 
@@ -52,7 +52,7 @@ Answer: A bought Sushi and Curry on his/her first purchase,
         B bought Curry on his/her first purchase,
         C bought Ramen on his/her first purchase.
 
-4. What is the most purchased item on the menu and how many times was it purchased by all customers?
+**4. What is the most purchased item on the menu and how many times was it purchased by all customers?**
    
    Syntax:
 
@@ -60,7 +60,7 @@ Answer: A bought Sushi and Curry on his/her first purchase,
 
 Answer: Ramen- 8
 
-5. Which item was the most popular for each customer?
+**5. Which item was the most popular for each customer?**
 
    Syntax: 
 
@@ -70,7 +70,7 @@ Answer:A bought Ramen 3 times,
        B bought Curry, Ramen and Sushi each 2 times,
        C bought Ramen 3 times
   
-6. Which item was purchased first by the customer after they became a member?
+**6. Which item was purchased first by the customer after they became a member?**
    
   Syntax:
 
@@ -79,7 +79,7 @@ Answer:A bought Ramen 3 times,
 Answer: A- Curry, 
         B- Ramen
 
-7. Which item was purchased just before the customer became a member?
+**7. Which item was purchased just before the customer became a member?**
 
 Syntax: 
 
@@ -88,7 +88,7 @@ Syntax:
 Answer: A- Ramen,
         B- Sushi
         
-8. What is the total items and amount spent for each member before they became a member?
+**8. What is the total items and amount spent for each member before they became a member?**
 
    Syntax:
 
@@ -97,7 +97,7 @@ Answer: A- Ramen,
 Answer: B- $62,
         A- $61
    
-9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
+**9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?**
     
     Syntax:
 
