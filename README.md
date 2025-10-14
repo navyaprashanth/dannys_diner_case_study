@@ -1,4 +1,4 @@
-# dannys_diner_case_study
+# Dannys Diner SQL Beginner Case Study
 This case study was taken from [8 weeks sql challenge](https://8weeksqlchallenge.com/case-study-1/)
 <img width="1024" height="1024" alt="Gemini_Generated_Image_pe4485pe4485pe44" src="https://github.com/user-attachments/assets/917d0cd2-e6ea-4544-82c1-de2ab6e22f39" />
 
